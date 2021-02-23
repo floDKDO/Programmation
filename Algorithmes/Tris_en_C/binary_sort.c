@@ -63,3 +63,7 @@ int main()
 
 // Complexité dans le pire des cas et le cas moyen : O(n²)
 // Complexité dans le meilleur des cas : O(n*log(n))
+// On peut aussi dire que (en raccourci) que O représente le pire des cas, Ω représente le meilleur des cas et Θ représente le cas moyen.
+// => La complexité dans le pire des cas du tri par insertion dichotomique est AU PLUS O(n²)
+// => La complexité dans le pire des cas du tri par insertion dichotomique est AU MOINS Ω(n*log(n))
+// => La complexité dans le pire des cas du tri par insertion dichotomique est EXACTEMENT Θ(n²)

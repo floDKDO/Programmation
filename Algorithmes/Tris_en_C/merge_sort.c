@@ -78,3 +78,4 @@ int main()
 	
 }
 
+//Complexité dans le pire des cas (et tous les autres) : O(n*log(n))

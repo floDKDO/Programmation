@@ -48,5 +48,9 @@ int main()
 
 // Complexité dans le pire cas et le cas moyen : O(n²)
 // Complexité dans le meilleur des cas : O(n)
+// On peut aussi dire que (en raccourci) que O représente le pire des cas, Ω représente le meilleur des cas et Θ représente le cas moyen.
+// => La complexité dans le pire des cas du tri shaker est AU PLUS O(n²)
+// => La complexité dans le pire des cas du tri shaker est AU MOINS Ω(n)
+// => La complexité dans le pire des cas du tri shaker est EXACTEMENT Θ(n²)
 
 

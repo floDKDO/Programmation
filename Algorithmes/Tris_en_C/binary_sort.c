@@ -61,4 +61,5 @@ int main()
 } 
 
 
-// Complexité dans le pire des cas : O(n²)
+// Complexité dans le pire des cas et le cas moyen : O(n²)
+// Complexité dans le meilleur des cas : O(n*log(n))

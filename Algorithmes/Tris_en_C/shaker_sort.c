@@ -46,4 +46,6 @@ int main()
 	
 }
 
+//Complexité dans le pire cas : O(n²)
+
 

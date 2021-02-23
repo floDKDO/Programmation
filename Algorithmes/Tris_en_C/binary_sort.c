@@ -60,3 +60,5 @@ int main()
     return EXIT_SUCCESS;
 } 
 
+
+// Complexité dans le pire des cas : O(n²)

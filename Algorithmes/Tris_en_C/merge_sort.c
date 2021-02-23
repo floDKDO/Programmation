@@ -79,3 +79,7 @@ int main()
 }
 
 // Complexité dans le pire des cas, le cas moyen et le meilleur cas : O(n*log(n))
+// On peut aussi dire que (en raccourci) que O représente le pire des cas, Ω représente le meilleur des cas et Θ représente le cas moyen.
+// => La complexité dans le pire des cas du tri fusion est AU PLUS O(n*log(n))
+// => La complexité dans le pire des cas du tri fusion est AU MOINS Ω(n*log(n))
+// => La complexité dans le pire des cas du tri fusion est EXACTEMENT Θ(n*log(n))

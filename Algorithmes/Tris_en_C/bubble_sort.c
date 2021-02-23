@@ -14,7 +14,9 @@ long int* tri_a_bulle(size_t size, long int* const array)
 		{
 			if (array[i]>array[i + 1])
 			{
-				int buff = array[i]; array[i] = array[i + 1]; array[i + 1] = buff;
+				int buff = array[i]; 
+				array[i] = array[i + 1]; 
+				array[i + 1] = buff;
 				b = true;
 			}	
 		}
@@ -40,5 +42,5 @@ int main()
 	
 }
 
-
+//Complexité dans le pire cas : O(n²)
 
